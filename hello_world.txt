@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 36B0-2927
+
+ Directory of C:\Users\VAMSHI\Desktop\git practice\first_git_repo
+
+01/19/2022  10:46 AM    <DIR>          .
+01/19/2022  10:46 AM    <DIR>          ..
+01/19/2022  10:46 AM                 0 hello_world.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  336,831,184,896 bytes free
